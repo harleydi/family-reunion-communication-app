@@ -1,0 +1,36 @@
+.navbar {
+    margin: 0;
+    padding: 0;
+    background-color: #5D4E60;
+    color: white;
+    height: 15vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo-text {
+    padding-left: 2rem;
+    font-size: xx-large;
+}
+
+.right {
+    display: flex;
+    align-items: center;
+    gap: 4rem;
+}
+
+.links {
+    margin-right: 1rem;
+    display: flex;
+    gap: 2rem;
+    
+}
+
+.avatar-img {
+    margin-right: 2rem;
+    height: 3rem;
+    width: 3rem;
+    border-radius: 50%;
+}
